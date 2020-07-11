@@ -23,7 +23,7 @@ Installation
 git clone https://github.com/brandonjackson/make-chatterbot.git
 cd make-chatterbot
 sudo apt-get install espeak espeak-data
-git clone git://pyaiml.git.sourceforge.net/gitroot/pyaiml/pyaiml
+git clone https://github.com/DYFeng/pyaiml.git
 cd pyaiml
 sudo python setup.py install
 cd ../
@@ -71,6 +71,9 @@ Links
 - [Chatterbot Wikipedia Page](http://en.wikipedia.org/wiki/Chatterbot)
 - [AIML Wikipedia Page](http://en.wikipedia.org/wiki/AIML)
 - [Tutorial that inspired the espeak integration](http://www.iniy.org/?p=68)
+  https://joannabot.ejemplo.me Live online AIML chatbot 380,000 cat
+
+Note by aimissq - edited pyaiml git source to still-working repo
 
 Credits
 -------
